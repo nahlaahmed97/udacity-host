@@ -1,7 +1,7 @@
 # Udagram
 
 ## Hosting link
-The link to the application can be seen [here](http://udagram-hosting.s3-website.us-east-2.amazonaws.com/home).
+The link to the application can be seen [here](http://nahla-udagram.s3-website.us-east-2.amazonaws.com/home).
 
 ## Info
 This Udagram application was provided by Udacity. 
