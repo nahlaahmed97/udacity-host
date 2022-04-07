@@ -2,7 +2,8 @@
 
 ## Hosting link
 The link to the application can be seen [here](http://nahla-udagram.s3-website.us-east-2.amazonaws.com).
-
+## GitHub Link
+https://github.com/nahlaahmed97/udacity-host.git
 ## Info
 
 This Udagram application was provided by Udacity. 
