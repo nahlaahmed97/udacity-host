@@ -13,3 +13,12 @@ jobs:
             - aws-cli/setup
             - eb/setup
             - run: echo "Hello World"
+workflows:
+  orchestration:
+    jobs:
+      - build:
+        filters:
+            branches:
+              only:
+                - master
+      
